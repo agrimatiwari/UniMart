@@ -7,7 +7,7 @@ UniMart is a frontend-only student marketplace prototype for the Thapar campus. 
 To run UniMart locally, clone this repository to your system:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/agrimatiwari/UniMart.git
 ```
 
 Navigate to the project folder:
